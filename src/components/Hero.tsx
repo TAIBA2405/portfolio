@@ -78,10 +78,6 @@ export default function Hero() {
               <div className="stat-number">10+</div>
               <div className="stat-label">Technologies</div>
             </div>
-            <div className="stat-item">
-              <div className="stat-number">8.13</div>
-              <div className="stat-label">CGPA</div>
-            </div>
           </div>
         </div>
       </div>
