@@ -3,7 +3,7 @@ export default function Footer() {
     <footer>
       <div className="container footer-inner">
         <div className="footer-copy">
-          built with 💜 & too much chai © {new Date().getFullYear()}
+          built with 💜 by taiba © {new Date().getFullYear()}
         </div>
         <div className="footer-links">
           <a href="https://linkedin.com/in/taiba-khan-faridi-576860172" target="_blank" rel="noopener noreferrer">
