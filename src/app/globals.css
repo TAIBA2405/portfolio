@@ -913,3 +913,10 @@ footer {
   margin-bottom: 10px;
   opacity: 0.8;
 }
+
+/* Golden moon */
+.golden-moon {
+  color: #FFD700;
+  -webkit-text-fill-color: #FFD700;
+  text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}

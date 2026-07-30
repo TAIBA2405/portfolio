@@ -43,7 +43,7 @@ export default function Hero() {
             open to collabs & opportunities ✨
           </div>
           <h1 className="hero-name">
-            Taiba<br /><span>Khan Faridi</span>
+            Hi, I&apos;m<br /><span>Taiba</span> 🌙
           </h1>
           <p className="hero-title">
             <TypedText />

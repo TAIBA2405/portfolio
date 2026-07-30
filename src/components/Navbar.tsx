@@ -21,7 +21,7 @@ export default function Navbar() {
   return (
     <nav className={`navbar${scrolled ? " scrolled" : ""}`}>
       <div className="container nav-inner">
-        <a href="#hero" className="nav-logo">TKF</a>
+        <a href="#hero" className="nav-logo">T<span style={{ WebkitTextFillColor: "initial" }}>🌙</span></a>
         <ul className={`nav-links${menuOpen ? " open" : ""}`}>
           {links.map((l) => (
             <li key={l.href}>
