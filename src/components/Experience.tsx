@@ -49,6 +49,21 @@ const projects = [
     desc: "Delivered 3 interactive Power BI dashboards from 5+ datasets using Python & SQL, reducing manual reporting effort for the analytics team.",
     tech: ["Power BI", "Python", "SQL", "Data Analysis"],
   },
+  {
+    icon: "🌐",
+    name: "dermedge.in",
+    badge: "🟢 Live",
+    company: "Freelance",
+    desc: "Designed and built a full website for dermedge.in — a dermatology-focused brand. Handled everything from UI design to deployment, fully production-ready.",
+    tech: ["Web Development", "UI Design", "Deployment", "Freelance"],
+  },  {
+    icon: "🧪",
+    name: "User Testing — Memberstack & More",
+    badge: "✅ Shipped",
+    company: "Freelance",
+    desc: "Conducted structured user testing sessions for Memberstack and other SaaS products. Delivered actionable UX feedback — identifying friction points, accessibility issues, and flow improvements.",
+    tech: ["User Testing", "UX Research", "SaaS", "Memberstack"],
+  },
 ];
 
 export default function Experience() {
