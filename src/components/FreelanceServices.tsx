@@ -79,11 +79,6 @@ export default function FreelanceServices() {
             </div>
           ))}
         </RevealSection>
-        <RevealSection>
-          <div className="freelance-note">
-            🚀 Past clients include <strong>Memberstack</strong> and <strong>dermedge.in</strong> — references available on request.
-          </div>
-        </RevealSection>
       </div>
     </section>
   );

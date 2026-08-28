@@ -3,10 +3,10 @@ import RevealSection from "./RevealSection";
 const projects = [
   {
     icon: "🏥",
-    name: "AI Healthcare Search Platform",
-    badge: "🟢 Live",
+    name: "MedScan Global — AI Healthcare Search Platform",
+    badge: "🔵 Ongoing",
     company: "Tecpinion",
-    desc: "Natural language hospital & doctor discovery powered by FastAPI, Groq LLM, semantic search, and Redis caching. Full ETL pipeline into PostgreSQL.",
+    desc: "Ongoing: AI-powered healthcare search enabling natural-language discovery of hospitals, doctors & treatments — FastAPI + Groq LLM, ETL & scraping pipelines into PostgreSQL, semantic search & Redis caching.",
     tech: ["FastAPI", "Groq", "PostgreSQL", "Redis", "Semantic Search"],
   },
   {
