@@ -88,11 +88,11 @@ export default function Contact() {
             <form onSubmit={handleSubmit}>
               <div className="form-group">
                 <label className="form-label" htmlFor="name">Your Name</label>
-                <input type="text" id="name" name="name" className="form-input" placeholder="John Doe" required />
+                <input type="text" id="name" name="name" className="form-input" placeholder="Your name" required />
               </div>
               <div className="form-group">
                 <label className="form-label" htmlFor="email">Email Address</label>
-                <input type="email" id="email" name="email" className="form-input" placeholder="hello@example.com" required />
+                <input type="email" id="email" name="email" className="form-input" placeholder="Your email" required />
               </div>
               <div className="form-group">
                 <label className="form-label" htmlFor="subject">Subject</label>
